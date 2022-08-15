@@ -1,0 +1,30 @@
+[
+   {
+      "title":"A text",
+      "version":"1.0",
+      "language":"en-GB",
+      "id":"1",
+      "abstract":"Laze Sofa Ha Tupik, A Zany Nil ...",
+      "href":"http://localhost:8080/english.txt",
+      "type":"text/plain"
+   },
+   {
+      "title":"Another text",
+      "version":"2.1",
+      "language":"fr-FR",
+      "id":"2",
+      "abstract":"Réduises Abdiquasses Cor Poêle Enflerais ...",
+      "href":"http://localhost:8080/french.txt",
+      "type":"text/plain"
+   },
+   {
+      "title":"Yet another text",
+      "version":"2.1",
+      "language":"de-DE",
+      "id":"3",
+      "abstract":"Genäht Klanglose, Welkem Abgeblitztem Sag Büßen...",
+      "href":"http://localhost:8080/vm.pdf",
+      "type":"application/pdf"
+   }
+
+]
