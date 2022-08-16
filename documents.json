@@ -5,7 +5,7 @@
       "language":"en-GB",
       "id":"1",
       "abstract":"Laze Sofa Ha Tupik, A Zany Nil ...",
-      "href":"http://localhost:8080/english.txt",
+      "href":"http://lively-smoke-03ac8e203.1.azurestaticapps.net/english.txt",
       "type":"text/plain"
    },
    {
@@ -14,7 +14,7 @@
       "language":"fr-FR",
       "id":"2",
       "abstract":"Réduises Abdiquasses Cor Poêle Enflerais ...",
-      "href":"http://localhost:8080/french.txt",
+      "href":"http://lively-smoke-03ac8e203.1.azurestaticapps.net/french.txt",
       "type":"text/plain"
    },
    {
@@ -23,7 +23,7 @@
       "language":"de-DE",
       "id":"3",
       "abstract":"Genäht Klanglose, Welkem Abgeblitztem Sag Büßen...",
-      "href":"http://localhost:8080/vm.pdf",
+      "href":"http://lively-smoke-03ac8e203.1.azurestaticapps.net/vm.pdf",
       "type":"application/pdf"
    },
    {
@@ -32,7 +32,7 @@
       "language":"de-DE",
       "id":"4",
       "abstract":"Genäht Klanglose, Welkem Abgeblitztem Sag Büßen...",
-      "href":"http://localhost:8080/vm.pdf",
+      "href":"http://lively-smoke-03ac8e203.1.azurestaticapps.net/vm.pdf",
       "type":"application/pdf"
    }
 
