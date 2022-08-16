@@ -106228,8 +106228,8 @@ A.FD.prototype={
 b6(){this.bD()
 var s=$.aud()
 s.An("loginEndpoint","http://localhost:8080/login")
-s.An("documentsEndpoint","https://localhost:8000/documents.json")
-s.An("documentsHost","https://localhost:8000/")
+s.An("documentsEndpoint","https://lively-smoke-03ac8e203.1.azurestaticapps.net/documents.json")
+s.An("documentsHost","https://lively-smoke-03ac8e203.1.azurestaticapps.net/")
 this.as=A.awn(this.y?B.H:B.ag,B.ju,!0)},
 auC(a){this.al(new A.alS(this,a))},
 au2(){this.al(new A.alR(this))},
